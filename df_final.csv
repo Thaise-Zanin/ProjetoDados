@@ -1,0 +1,126 @@
+data_fato,hora_fato,grupo_fato,tipo_enquadramento,tipo_fato,municipio_fato,quantidade_vitimas,idade_vitima,sexo_vitima,cor_vitima,precipitacao,temp_max,temp_min,umidade,vento,chuva
+2021-03-10,15:50:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,28,masculino,branca,0.0,28.0,12.0,86.0,3.0,Não
+2021-03-10,19:30:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,20,masculino,branca,0.0,28.0,12.0,86.0,3.0,Não
+2021-07-10,09:15:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,41,masculino,branca,0.0,17.0,9.0,74.0,4.0,Não
+2021-07-10,21:00:00,crimes,homicidio doloso,consumado,passo fundo,1,29,feminino,parda,0.0,17.0,9.0,74.0,4.0,Não
+2021-08-10,18:30:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,28,masculino,branca,9.0,14.0,12.0,68.0,3.0,Sim
+2021-03-11,11:30:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,21,masculino,branca,0.0,28.0,12.0,86.0,3.0,Não
+2021-03-11,13:30:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,27,masculino,branca,0.0,28.0,12.0,86.0,3.0,Não
+2021-02-12,02:15:00,crimes,homicidio doloso,consumado,passo fundo,1,33,masculino,branca,0.0,24.0,16.0,68.0,3.0,Não
+2021-08-12,07:00:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,41,feminino,parda,0.0,14.0,9.0,85.0,4.0,Não
+2022-07-01,07:00:00,crimes,homicidio culposo,consumado,passo fundo,1,0,feminino,sem informacao,0.0,16.0,11.0,93.0,3.0,Não
+2022-08-01,09:30:00,crimes,homicidio doloso,consumado,passo fundo,1,36,masculino,branca,0.0,21.0,14.0,83.0,2.0,Não
+2022-09-01,00:01:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,19,masculino,branca,0.0,11.0,11.0,72.0,3.0,Não
+2022-09-01,20:20:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,40,masculino,indigena,0.0,11.0,11.0,72.0,3.0,Não
+2022-08-02,14:00:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,28,masculino,sem informacao,0.0,21.0,14.0,83.0,2.0,Não
+2022-09-02,04:50:00,crimes,homicidio doloso,consumado,passo fundo,1,20,feminino,preta,18.0,11.0,11.0,72.0,3.0,Sim
+2022-04-03,22:00:00,crimes,homicidio doloso,consumado,passo fundo,1,34,masculino,branca,0.0,22.0,14.0,79.0,4.0,Não
+2022-05-03,14:15:00,crimes,homicidio doloso,consumado,passo fundo,1,35,masculino,sem informacao,0.0,17.0,17.0,72.0,3.0,Não
+2022-12-03,04:30:00,crimes,feminicidio,consumado,passo fundo,1,36,feminino,branca,0.0,31.0,17.0,74.0,3.0,Não
+2022-07-04,19:00:00,crimes,homicidio doloso,consumado,passo fundo,1,33,masculino,branca,0.0,16.0,11.0,93.0,5.0,Não
+2022-08-05,19:00:00,crimes,homicidio doloso,consumado,passo fundo,2,25,masculino,sem informacao,0.0,20.0,14.0,83.0,2.0,Não
+2022-04-06,06:15:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,3,27,feminino,branca,0.0,22.0,14.0,79.0,4.0,Não
+2022-05-06,01:00:00,crimes,feminicidio,consumado,passo fundo,1,42,feminino,branca,0.0,17.0,8.0,72.0,3.0,Não
+2022-08-06,11:12:00,crimes,homicidio culposo,consumado,passo fundo,1,49,masculino,branca,0.0,20.0,6.0,91.0,2.0,Não
+2022-12-06,17:20:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,40,feminino,branca,0.0,31.0,17.0,74.0,3.0,Não
+2022-05-07,23:00:00,crimes,homicidio doloso,consumado,passo fundo,1,33,masculino,branca,0.0,17.0,8.0,72.0,3.0,Não
+2022-07-07,23:40:00,crimes,homicidio doloso,consumado,passo fundo,1,23,masculino,sem informacao,0.0,24.0,11.0,66.0,5.0,Não
+2022-09-07,20:46:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,68,feminino,branca,5.0,11.0,11.0,72.0,3.0,Sim
+2022-11-07,19:00:00,crimes,homicidio doloso,consumado,passo fundo,1,18,masculino,parda,0.0,19.0,7.0,54.0,3.0,Não
+2022-02-08,17:56:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,25,masculino,branca,0.0,26.0,15.0,66.0,3.0,Não
+2022-07-08,02:20:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,6,24,masculino,branca,0.0,24.0,11.0,66.0,5.0,Não
+2022-08-08,19:00:00,crimes,homicidio doloso,consumado,passo fundo,1,21,feminino,branca,0.0,20.0,6.0,91.0,4.0,Não
+2022-09-08,15:00:00,crimes,homicidio doloso,consumado,passo fundo,1,48,masculino,branca,0.0,11.0,11.0,72.0,3.0,Não
+2022-01-09,04:53:00,crimes,homicidio culposo,consumado,passo fundo,1,65,masculino,branca,0.0,26.0,15.0,89.0,3.0,Não
+2022-02-09,19:30:00,crimes,homicidio doloso,consumado,passo fundo,1,28,masculino,branca,0.0,29.0,14.0,66.0,3.0,Não
+2022-07-09,21:00:00,crimes,homicidio doloso,consumado,passo fundo,3,32,masculino,branca,0.0,24.0,11.0,66.0,5.0,Não
+2022-11-09,18:00:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,2,42,masculino,branca,0.0,19.0,7.0,54.0,3.0,Não
+2022-02-10,17:30:00,crimes,homicidio doloso,consumado,passo fundo,1,43,masculino,branca,0.0,29.0,17.0,66.0,3.0,Não
+2022-02-11,01:15:00,crimes,homicidio doloso,consumado,passo fundo,1,33,masculino,sem informacao,0.0,29.0,17.0,66.0,3.0,Não
+2022-09-11,01:20:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,47,masculino,preta,0.0,11.0,4.0,67.0,3.0,Não
+2022-09-11,21:30:00,crimes,homicidio doloso,consumado,passo fundo,1,23,masculino,parda,0.0,11.0,4.0,67.0,3.0,Não
+2022-11-11,19:50:00,crimes,homicidio doloso,consumado,passo fundo,1,62,masculino,preta,0.0,19.0,12.0,54.0,3.0,Não
+2022-01-12,07:45:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,10,masculino,parda,0.0,26.0,17.0,39.0,3.0,Não
+2022-01-12,12:15:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,60,masculino,branca,0.0,26.0,17.0,39.0,3.0,Não
+2022-06-12,09:45:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,76,feminino,branca,0.0,12.0,0.0,65.0,3.0,Não
+2022-06-12,11:55:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,69,feminino,branca,0.0,12.0,0.0,65.0,3.0,Não
+2022-07-12,13:00:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,34,masculino,branca,19.0,22.0,16.0,66.0,5.0,Sim
+2022-08-12,08:30:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,2,59,masculino,parda,0.0,20.0,6.0,91.0,4.0,Não
+2023-02-01,20:00:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,2,46,feminino,branca,0.0,32.0,20.0,88.0,2.0,Não
+2023-03-01,08:20:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,3,69,feminino,branca,0.0,32.0,16.0,88.0,3.0,Não
+2023-07-01,04:25:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,2,41,masculino,branca,0.0,16.0,3.0,97.0,3.0,Não
+2023-09-01,19:30:00,crimes,homicidio doloso,consumado,passo fundo,1,58,masculino,branca,0.0,13.0,13.0,72.0,2.0,Não
+2023-10-01,15:45:00,crimes,homicidio doloso,consumado,passo fundo,1,25,masculino,parda,0.0,21.0,15.0,81.0,5.0,Não
+2023-04-02,03:00:00,crimes,homicidio doloso,consumado,passo fundo,1,26,masculino,branca,0.0,31.0,19.0,77.0,3.0,Não
+2023-05-02,04:00:00,crimes,feminicidio,consumado,passo fundo,1,26,feminino,sem informacao,0.0,26.0,10.0,63.0,3.0,Não
+2023-03-03,23:00:00,crimes,homicidio doloso,consumado,passo fundo,1,22,masculino,branca,0.0,27.0,16.0,88.0,3.0,Não
+2023-04-03,02:10:00,crimes,homicidio doloso,consumado,passo fundo,1,43,masculino,branca,0.0,31.0,19.0,65.0,3.0,Não
+2023-05-03,23:40:00,crimes,homicidio doloso,consumado,passo fundo,1,30,masculino,preta,0.0,26.0,10.0,63.0,3.0,Não
+2023-06-03,22:30:00,crimes,homicidio doloso,consumado,passo fundo,1,64,masculino,branca,0.0,26.0,11.0,73.0,3.0,Não
+2023-08-03,07:40:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,76,feminino,branca,0.0,21.0,16.0,77.0,3.0,Não
+2023-01-04,18:00:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,2,53,masculino,branca,0.0,31.0,16.0,52.0,3.0,Não
+2023-07-04,19:55:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,84,masculino,sem informacao,0.0,16.0,3.0,97.0,3.0,Não
+2023-09-04,07:30:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,5,64,masculino,branca,84.0,19.0,13.0,93.0,2.0,Sim
+2023-09-04,18:00:00,crimes,homicidio doloso,consumado,passo fundo,2,26,masculino,branca,84.0,19.0,13.0,93.0,2.0,Sim
+2023-01-05,14:15:00,crimes,homicidio doloso,consumado,passo fundo,1,48,masculino,sem informacao,0.0,31.0,16.0,52.0,3.0,Não
+2023-02-06,03:00:00,crimes,homicidio doloso,consumado,passo fundo,1,24,masculino,branca,0.0,32.0,20.0,80.0,2.0,Não
+2023-02-06,12:50:00,crimes,homicidio doloso,consumado,passo fundo,1,0,masculino,branca,0.0,32.0,20.0,80.0,2.0,Não
+2023-03-06,20:45:00,crimes,homicidio doloso,consumado,passo fundo,1,25,masculino,sem informacao,0.0,27.0,16.0,88.0,3.0,Não
+2023-07-06,08:30:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,2,49,feminino,branca,0.0,16.0,3.0,75.0,3.0,Não
+2023-11-06,01:20:00,crimes,homicidio doloso,consumado,passo fundo,1,26,masculino,branca,0.0,17.0,15.0,77.0,3.0,Não
+2023-12-06,11:40:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,83,masculino,branca,0.0,19.0,12.0,61.0,4.0,Não
+2023-05-07,14:00:00,crimes,homicidio doloso,consumado,passo fundo,1,23,masculino,sem informacao,0.0,26.0,10.0,63.0,3.0,Não
+2023-03-08,23:00:00,crimes,homicidio doloso,consumado,passo fundo,1,25,masculino,branca,0.0,27.0,16.0,88.0,3.0,Não
+2023-09-08,22:30:00,crimes,homicidio doloso,consumado,passo fundo,1,39,masculino,branca,0.0,19.0,13.0,93.0,2.0,Não
+2023-11-08,22:30:00,crimes,homicidio doloso,consumado,passo fundo,1,31,masculino,parda,0.0,17.0,15.0,77.0,3.0,Não
+2023-04-10,15:00:00,crimes,homicidio doloso,consumado,passo fundo,1,40,masculino,sem informacao,1.0,19.0,16.0,93.0,2.0,Sim
+2023-03-11,15:30:00,crimes,homicidio doloso,consumado,passo fundo,1,17,masculino,branca,0.0,30.0,17.0,88.0,3.0,Não
+2023-05-11,17:00:00,crimes,homicidio doloso,consumado,passo fundo,1,31,masculino,branca,0.0,26.0,10.0,63.0,3.0,Não
+2023-10-11,06:25:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,77,masculino,preta,0.0,21.0,13.0,77.0,5.0,Não
+2023-10-12,15:00:00,crimes,homicidio doloso,consumado,passo fundo,1,45,masculino,branca,0.0,17.0,13.0,77.0,5.0,Não
+2024-05-01,18:00:00,crimes,homicidio doloso,consumado,passo fundo,1,35,masculino,branca,0.0,24.0,20.0,61.0,4.0,Não
+2024-06-01,23:40:00,crimes,homicidio doloso,consumado,passo fundo,1,33,masculino,sem informacao,0.0,23.0,20.0,85.0,3.0,Não
+2024-07-01,16:00:00,crimes,homicidio doloso,consumado,passo fundo,1,26,masculino,branca,0.0,13.0,3.0,89.0,3.0,Não
+2024-08-01,16:45:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,64,masculino,branca,0.0,21.0,11.0,77.0,1.0,Não
+2024-09-01,13:30:00,crimes,homicidio doloso,consumado,passo fundo,1,30,feminino,branca,0.0,23.0,16.0,68.0,2.0,Não
+2024-12-01,17:00:00,crimes,homicidio culposo,consumado,passo fundo,1,4,feminino,branca,0.0,25.0,19.0,88.0,4.0,Não
+2024-07-02,07:20:00,crimes,homicidio culposo,consumado,passo fundo,1,51,masculino,branca,0.0,22.0,5.0,89.0,3.0,Não
+2024-08-02,22:00:00,crimes,homicidio doloso,consumado,passo fundo,1,28,masculino,branca,0.0,25.0,11.0,77.0,1.0,Não
+2024-03-03,21:10:00,crimes,homicidio doloso,consumado,passo fundo,2,57,masculino,branca,0.0,29.0,20.0,84.0,2.0,Não
+2024-07-04,20:30:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,27,masculino,branca,0.0,22.0,5.0,89.0,3.0,Não
+2024-01-05,11:00:00,crimes,homicidio doloso,consumado,passo fundo,1,43,masculino,branca,0.0,26.0,19.0,77.0,3.0,Não
+2024-06-05,09:00:00,crimes,homicidio culposo,consumado,passo fundo,3,47,masculino,branca,0.0,23.0,10.0,85.0,3.0,Não
+2024-03-06,23:15:00,crimes,homicidio doloso,consumado,passo fundo,1,46,masculino,branca,0.0,29.0,20.0,83.0,2.0,Não
+2024-07-06,23:00:00,crimes,homicidio doloso,consumado,passo fundo,1,17,masculino,branca,0.0,14.0,10.0,89.0,3.0,Não
+2024-11-06,09:45:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,79,masculino,parda,0.0,22.0,20.0,66.0,3.0,Não
+2024-12-06,16:45:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,84,feminino,branca,0.0,25.0,14.0,67.0,4.0,Não
+2024-06-07,08:50:00,crimes,homicidio doloso,consumado,passo fundo,1,16,masculino,branca,0.0,23.0,10.0,85.0,3.0,Não
+2024-10-07,06:30:00,crimes,homicidio doloso,consumado,passo fundo,1,50,masculino,sem informacao,0.0,18.0,16.0,66.0,4.0,Não
+2024-01-08,04:50:00,crimes,homicidio doloso,consumado,passo fundo,1,45,masculino,branca,0.0,26.0,20.0,69.0,3.0,Não
+2024-02-08,20:10:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,55,masculino,branca,0.0,31.0,18.0,74.0,3.0,Não
+2024-04-08,07:00:00,crimes,homicidio doloso,consumado,passo fundo,1,29,masculino,sem informacao,0.0,29.0,19.0,87.0,3.0,Não
+2024-05-08,09:10:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,68,feminino,branca,0.0,24.0,20.0,61.0,4.0,Não
+2024-06-08,04:45:00,crimes,homicidio doloso,consumado,passo fundo,1,19,masculino,parda,0.0,23.0,10.0,85.0,3.0,Não
+2024-11-09,07:15:00,crimes,homicidio doloso,consumado,passo fundo,1,33,feminino,branca,0.0,22.0,18.0,66.0,3.0,Não
+2024-09-10,09:39:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,72,feminino,branca,0.0,23.0,14.0,61.0,3.0,Não
+2024-11-10,17:44:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,32,masculino,branca,0.0,22.0,18.0,66.0,3.0,Não
+2024-12-10,23:00:00,crimes,homicidio doloso,consumado,passo fundo,1,44,masculino,branca,0.0,25.0,14.0,67.0,4.0,Não
+2024-07-11,12:00:00,crimes,homicidio doloso,consumado,passo fundo,1,16,masculino,branca,3.0,6.0,5.0,96.0,1.0,Sim
+2024-08-11,15:36:00,crimes,homicidio doloso,consumado,passo fundo,1,61,masculino,parda,0.0,14.0,11.0,83.0,2.0,Não
+2024-09-11,21:00:00,crimes,homicidio doloso,consumado,passo fundo,2,51,masculino,branca,0.0,23.0,14.0,59.0,3.0,Não
+2025-02-01,22:20:00,crimes,homicidio doloso,consumado,passo fundo,1,62,masculino,sem informacao,0.0,32.0,18.0,80.0,2.0,Não
+2025-05-01,12:30:00,crimes,homicidio doloso,consumado,passo fundo,1,38,masculino,branca,0.0,22.0,17.0,80.0,2.0,Não
+2025-01-02,23:00:00,crimes,homicidio doloso,consumado,passo fundo,1,50,feminino,parda,14.0,30.0,18.0,70.0,3.0,Sim
+2025-07-02,23:25:00,crimes,homicidio doloso,consumado,passo fundo,1,33,masculino,parda,0.0,16.0,-1.0,95.0,2.0,Não
+2025-09-02,22:30:00,crimes,homicidio doloso,consumado,passo fundo,1,49,masculino,branca,0.0,22.0,14.0,67.0,5.0,Não
+2025-02-03,18:00:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,4,59,masculino,branca,0.0,32.0,18.0,80.0,3.0,Não
+2025-06-03,20:30:00,crimes,homicidio doloso,consumado,passo fundo,1,25,masculino,branca,0.0,16.0,13.0,73.0,2.0,Não
+2025-09-03,19:39:00,crimes,homicidio doloso,consumado,passo fundo,1,46,masculino,branca,0.0,23.0,14.0,67.0,5.0,Não
+2025-04-05,18:50:00,crimes,homicidio doloso,consumado,passo fundo,1,36,masculino,branca,0.0,27.0,19.0,76.0,3.0,Não
+2025-06-05,13:10:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,65,feminino,branca,0.0,16.0,13.0,91.0,2.0,Não
+2025-07-05,10:43:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,1,feminino,branca,0.0,16.0,-1.0,95.0,2.0,Não
+2025-07-05,16:15:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,2,43,masculino,branca,0.0,16.0,-1.0,95.0,2.0,Não
+2025-07-07,06:50:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,71,feminino,branca,0.0,16.0,-1.0,95.0,2.0,Não
+2025-06-09,11:30:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,5,63,feminino,branca,0.0,16.0,13.0,91.0,2.0,Não
+2025-02-11,02:40:00,crimes,homicidio culposo direcao veic automotor,consumado,passo fundo,1,51,feminino,sem informacao,0.0,32.0,21.0,68.0,3.0,Não
+2025-07-11,01:00:00,crimes,homicidio doloso,consumado,passo fundo,1,44,masculino,parda,0.0,16.0,-1.0,71.0,2.0,Não
